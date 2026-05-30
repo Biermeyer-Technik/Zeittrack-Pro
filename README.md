@@ -10,7 +10,7 @@ direkt per E-Mail an den Steuerberater schicken.
 
 ### Schritt 1 – GitHub Account anlegen
 → https://github.com → „Sign up" → kostenlos registrieren
-
+ 
 ### Schritt 2 – Neues Repository erstellen
 1. Auf GitHub: „New repository"
 2. Name: `zeittrack-pro`
